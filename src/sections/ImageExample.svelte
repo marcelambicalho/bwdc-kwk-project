@@ -6,18 +6,18 @@
 <div>
     <Scroller layout="right">
         {#snippet sticky()}
-            <img class="duck-img" src="duck.png" alt="KWK rubber duck!" />
+            <img class="duck-img" src=" " alt="NPA Grants Graph" />
+            <img class="duck-img" src=" " alt="NPA Infrastructure Graph" />
         {/snippet}
 
         {#snippet scrolly()}
             <ArticleText>
                 <strong>
-                    Your final project might look totally different from this
-                    template!
+                    We can also take a closer look at National vs Individual Programs in those areas: 
                 </strong>
             </ArticleText>
 
-            <ArticleText>It's yours to create.</ArticleText>
+            <ArticleText> Although National Programs seem more largely available accross counties, Infrastructure efforts seem lower on vulnerable areas of black homeowners. This means that, in teh areas most affected by natural disasters, the biggest concentration of black people that own property have a <strong> lesser chance at rebuilding.</strong></ArticleText>
         {/snippet}
     </Scroller>
 </div>
